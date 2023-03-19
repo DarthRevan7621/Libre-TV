@@ -1,1 +1,13 @@
-
+ - Bluetooth 5.1 trasmitter.
+ 
+ - Buttons for each input signal on the TV.
+ 
+ - Six buttons programmable (via the TV) to open an installed app. 
+ 
+ - Volume & mute buttons on right edge of the remote. 
+ 
+ - Power, Home, Back, Menu/Settings, Captions buttons near the top
+ 
+ - Circular d-pad centered with a large OK/Enter button in the center of d-pad. 
+ 
+ - Rechargeable 2 Wh Li-Ion Polymer battery, powered by USB-C port at the bottom. 
